@@ -5,4 +5,7 @@
 result*
 weights*
 env/*
-test_images/1.jpg
+test_images/*
+data/*
+.ipynb_checkpoints/*
+convert_to_onnx/env/*
